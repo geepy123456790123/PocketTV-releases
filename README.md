@@ -2,6 +2,8 @@
 
 Public binary releases for PocketTV on Nintendo Switch.
 
+![GitHub downloads](https://img.shields.io/github/downloads/geepy123456790123/PocketTV-releases/total?label=GitHub%20downloads)
+
 ![PocketTV running on Nintendo Switch](pockettv-switch-cutout.png)
 
 Download the latest `PocketTV.nro` from the Releases page. Source code is maintained separately.
